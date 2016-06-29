@@ -1,0 +1,5 @@
+E:\cs\4th Year\2nd Term\Security Cryptography\Package\projecttemplate\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+E:\cs\4th Year\2nd Term\Security Cryptography\Package\projecttemplate\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+E:\cs\4th Year\2nd Term\Security Cryptography\Package\projecttemplate\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+E:\cs\4th Year\2nd Term\Security Cryptography\Package\projecttemplate\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+E:\cs\4th Year\2nd Term\Security Cryptography\Package\projecttemplate\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
